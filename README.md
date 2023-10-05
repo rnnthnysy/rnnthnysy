@@ -13,9 +13,15 @@
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 ## Education
-Bachelor of Science in Computer Science | New Era University 
+Bachelor of Science in Computer Science | New Era University
+
 2019 - Present
 
 ## Certification
-[Business Analytics with Excel Certificate] (https://simpli-web.app.link/e/H3FaPOZfcDb)
+[Business Analytics with Excel] (https://simpli-web.app.link/e/H3FaPOZfcDb)
+
 September 7, 2023
+
+[Data Analytics Essentials] (https://www.credly.com/badges/31ee9b57-0f39-46fc-b615-0cce8ff60980)
+
+September 30, 2023
