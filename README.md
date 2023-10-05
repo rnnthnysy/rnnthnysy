@@ -2,10 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ron Anthony Sy</h1>
 <h3 align="center">A 3rd year Computer Science Student at New Era University</h3>
 
-<div align="center">
-<a href="syronanthony@gmail.com>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-</a>
+<p align="center">
+  <a href="syronanthony@gmail.com">img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
