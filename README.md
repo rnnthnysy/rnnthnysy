@@ -29,3 +29,7 @@ September 7, 2023
 [Data Analytics Essentials] (https://www.credly.com/badges/31ee9b57-0f39-46fc-b615-0cce8ff60980)
 
 September 30, 2023
+
+[Intro to Programming] (https://www.kaggle.com/learn/certification/ronanthonysy/intro-to-programming)
+
+November 9, 2023
