@@ -23,17 +23,25 @@ Bachelor of Science in Computer Science | New Era University
 
 ## Certification
 **Business Analytics with Excel**
+
 [Certificate](https://simpli-web.app.link/e/H3FaPOZfcDb)
+
 Awarded on: September 7, 2023
 
 **Data Analytics Essentials**
+
 [Badge](https://www.credly.com/badges/31ee9b57-0f39-46fc-b615-0cce8ff60980)
+
 Awarded on: September 30, 2023
 
 **Intro to Programming**
+
 [Kaggle Certification](https://www.kaggle.com/learn/certification/ronanthonysy/intro-to-programming)
+
 Awarded on: November 9, 2023
 
 **Python**
+
 [Kaggle Certification](https://www.kaggle.com/learn/certification/ronanthonysy/python)
+
 Awarded on: December 13, 2023
