@@ -1,4 +1,5 @@
-![Header](![github-header-image](https://github.com/rnnthnysy/rnnthnysy/assets/142371703/08f05795-74e0-4e0f-8743-6293c647a845))
+![github-header-image](https://github.com/rnnthnysy/rnnthnysy/assets/142371703/e6a07e2a-5a4b-4a10-8aa7-4ac4a30146be)
+
 
 <h1 align="center">Hi 👋, I'm Ron Anthony Sy</h1>
 <h3 align="center">An ambitious computer science student at New Era University who is highly motivated to acquire substantial coding experience and knowledge</h3>
