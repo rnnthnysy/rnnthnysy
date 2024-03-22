@@ -20,7 +20,6 @@
 | ----------------------------------------- | --------------------| -------|
 | Bachelor of Science in Computer Science   | New Era University  | 2019 - Present   |
 
-2019 - Present
 
 ## Certification
 | Certification                     | Platform/Provider                                   | Date           |
