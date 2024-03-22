@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/rnnthnysy/rnnthnysy/assets/142371703/e6a07e2a-5a4b-4a10-8aa7-4ac4a30146be)
+![github-header-image](https://github.com/rnnthnysy/rnnthnysy/assets/142371703/f4b17d4b-08c4-4623-96b1-e7e7644563f3)
 
 
 <h1 align="center">Hi 👋, I'm Ron Anthony Sy</h1>
