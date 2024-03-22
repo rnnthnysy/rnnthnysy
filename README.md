@@ -1,6 +1,6 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="![welcome to my portfolio](https://github.com/rnnthnysy/rnnthnysy/assets/142371703/aa87025e-4d0f-4d0a-bbba-fd816ddbb33f)" width="981" height="374">
 <h1 align="center">Hi 👋, I'm Ron Anthony Sy</h1>
-<h3 align="center">A 3rd year Computer Science Student at New Era University</h3>
+<h3 align="center">An ambitious computer science student at New Era University who is highly motivated to acquire substantial coding experience and knowledge</h3>
 
 <p align="center">
   <a href="https://wwww.syronanthony@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
