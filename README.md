@@ -29,10 +29,13 @@
 - [Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiZTE2YWIwNmEtOTVmZi00Nzg4LThiNDUtNGM0YjZhZjI1ZTA1IiwidCI6IjFhNDE4MTI5LTBlZWUtNDU1ZC04NDFiLWRlZDc0ZDI4MjdhZiIsImMiOjEwfQ%3D%3D)
 - [Soda Report for the Year 2022](https://app.powerbi.com/view?r=eyJrIjoiMjdmN2MxYjMtN2ExZC00YzgwLTlhOTUtNzk3YWM3MmIwMzU4IiwidCI6IjFhNDE4MTI5LTBlZWUtNDU1ZC04NDFiLWRlZDc0ZDI4MjdhZiIsImMiOjEwfQ%3D%3D)
 - 
-| Project | Link |
-|---------|------|
-| Snack Report using DAX | [View Report](https://app.powerbi.com/view?r=eyJrIjoiZTE2YWIwNmEtOTVmZi00Nzg4LThiNDUtNGM0YjZhZjI1ZTA1IiwidCI6IjFhNDE4MTI5LTBlZWUtNDU1ZC04NDFiLWRlZDc0ZDI4MjdhZiIsImMiOjEwfQ%3D%3D) |
-| Soda Report for the Year 2022 | [View Report](https://app.powerbi.com/view?r=eyJrIjoiMjdmN2MxYjMtN2ExZC00YzgwLTlhOTUtNzk3YWM3MmIwMzU4IiwidCI6IjFhNDE4MTI5LTBlZWUtNDU1ZC04NDFiLWRlZDc0ZDI4MjdhZiIsImMiOjEwfQ%3D%3D) |
+
+## Software Engineering Design Pattern Repositories
+- [Strategy Pattern](https://github.com/rnnthnysy/strategyPattern.git)
+- [Visitor Pattern](https://github.com/rnnthnysy/visitorPattern.git)
+- [Builder Pattern](https://github.com/rnnthnysy/builderPattern.git)
+- [Singleton Pattern](https://github.com/rnnthnysy/singletonPattern.git)
+- [Command Pattern](https://github.com/rnnthnysy/commandPattern.git)
 
 # Skill Set
 ## Programming Languages
