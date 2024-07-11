@@ -22,11 +22,11 @@
 - [Student Activity Report](https://app.powerbi.com/view?r=eyJrIjoiYzg0MjcwZjMtNjExYi00MmFmLWE0MWMtNjFlZTQ1MDQzZTQ1IiwidCI6IjFhNDE4MTI5LTBlZWUtNDU1ZC04NDFiLWRlZDc0ZDI4MjdhZiIsImMiOjEwfQ%3D%3D)
 
 ## Software Engineering Design Pattern Repositories
+- [SOLID with Design Pattern](https://github.com/rnnthnysy/SOLIDwithDesignPattern.git)
 - [Strategy Pattern](https://github.com/rnnthnysy/strategyPattern.git)
 - [Visitor Pattern](https://github.com/rnnthnysy/visitorPattern.git)
 - [Builder Pattern](https://github.com/rnnthnysy/builderPattern.git)
 - [Singleton Pattern](https://github.com/rnnthnysy/singletonPattern.git)
-- [Command Pattern](https://github.com/rnnthnysy/commandPattern.git)
 
 # Skill Set
 ## Data Visualization Tools
