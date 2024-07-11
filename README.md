@@ -74,8 +74,11 @@
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL7b9P_feX1yThfg-k6-N0TyGHKMa5a7YusA&s" alt="Lucidchart" width="40" height="40"/> 
     </a> 
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/intellijidea-dark.svg" alt="intelliJ" width="40" height="40"/> 
-    </a> 
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/pycharm-dark.svg" alt="intelliJ" width="40" height="40"/> 
+    </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/intellijidea-dark.svg" alt="pycharm" width="40" height="40"/> 
+    </a>
     <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" alt="Visual Studio" width="40" height="40"/> 
     </a> 
