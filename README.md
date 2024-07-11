@@ -1,8 +1,7 @@
-![github-header-image](https://github.com/rnnthnysy/rnnthnysy/assets/142371703/f4b17d4b-08c4-4623-96b1-e7e7644563f3)
+![github-header-image]![Hackathon (1)](https://github.com/rnnthnysy/rnnthnysy/assets/142371703/e0b12812-7c0d-444d-83ef-be560bf00413)
 
 
-<h1 align="center">Hi 👋, I'm Ron Anthony Sy</h1>
-<h3 align="center">An ambitious computer science student at New Era University who is highly motivated to acquire substantial coding experience and knowledge</h3>
+
 
 <p align="center">
   <a href="https://wwww.syronanthony@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
