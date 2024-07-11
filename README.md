@@ -31,50 +31,52 @@
 # Skill Set
 ## Data Visualization Tools
 <p align="left"> 
-  <a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="40" height="40"/> 
-  </a> 
-  <a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Public" width="40" height="40"/> 
-  </a> 
+    <a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-white.svg" alt="PowerBI" width="40" height="40"/> 
+    </a> 
+    <a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/tableau.svg" alt="Tableau Public" width="40" height="40"/> 
+    </a> 
 </p>
 
 ## Programming Languages
 <p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/bootstrap-light.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/bootstrap-dark.svg" alt="bootstrap" width="40" height="40"/> 
     </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" alt="html" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" alt="css" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" alt="git" width="40" height="40"/> 
+    </a>  
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-dark.svg" alt="java" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" alt="mysql" width="40" height="40"/> 
+    </a> 
 </p>
 
 ## DBMS
 <p align="left"> 
-  <a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer"> 
-    <img src="https://www.db2tutorial.com/wp-content/uploads/2019/03/db2-tutorial.png" alt="DB2" width="40" height="40"/> 
-  </a> 
+    <a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/ibmcloud.svg" width="40" height="40"/> 
+    </a> 
 </p>
 
 ## Dev Tools
 <p align="left"> 
-  <a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL7b9P_feX1yThfg-k6-N0TyGHKMa5a7YusA&s" alt="Lucidchart" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Eclipse" width="40" height="40"/> 
-  </a> 
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="Visual Studio" width="40" height="40"/> 
-  </a> 
+    <a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL7b9P_feX1yThfg-k6-N0TyGHKMa5a7YusA&s" alt="Lucidchart" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/intellijidea-dark.svg" alt="intelliJ" width="40" height="40"/> 
+    </a> 
+    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" alt="Visual Studio" width="40" height="40"/> 
+    </a> 
 </p>
