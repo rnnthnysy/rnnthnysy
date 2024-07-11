@@ -21,7 +21,7 @@
 - [Data Analytics Essentials](https://www.credly.com/badges/31ee9b57-0f39-46fc-b615-0cce8ff60980)
 - [Intro to Programming](https://drive.google.com/file/d/1LlIPp4I04kQQ5irBVcw7hw-DGwl2PnBi/view?usp=sharing)
 - [Python](https://drive.google.com/file/d/1zEv7uCDIEYCbCgMPTa80LL_85s1HQ43W/view?usp=sharing)
-- [Cybersecurity Workshop - CTF](https://drive.google.com/file/d/1-0zlC1q5KSwFh7h0B2eHwtPakAq9CewA/view?usp=sharing)
+- [Cybersecurity Workshop - CTF](https://drive.google.com/file/d/1wAN4DlExeWl1rXumVXiGrKb6xyQJRbb7/view?usp=sharing)
 
 # Tech Achievement
 ## PowerBI Projects
