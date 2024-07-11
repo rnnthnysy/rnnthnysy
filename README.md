@@ -1,14 +1,6 @@
 
 ![Hackathon (1)](https://github.com/rnnthnysy/rnnthnysy/assets/142371703/ecde1917-92a0-4954-8ab8-c7e2f062abb7)
 
-
-<p align="center">
-  <a href="https://wwww.syronanthony@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ron-anthony-sy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/rnnthnysy/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://t.me/rnnthnysy"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.coursera.org/learner/rnnthnysy"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/></a> </p>
-
 ## Education
 
 | Degree                                    | Institution          | Year    |
