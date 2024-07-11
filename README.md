@@ -21,8 +21,6 @@
 - [Data Analytics Essentials](https://www.credly.com/badges/31ee9b57-0f39-46fc-b615-0cce8ff60980)
 - [Intro to Programming](https://drive.google.com/file/d/1LlIPp4I04kQQ5irBVcw7hw-DGwl2PnBi/view?usp=sharing)
 - [Python](https://drive.google.com/file/d/1zEv7uCDIEYCbCgMPTa80LL_85s1HQ43W/view?usp=sharing)
-
-## Webinars and Seminars Attended
 - [Capture the Flag Competition](https://drive.google.com/file/d/1vJ9ZfACOzSxHZLY0kefgk2cQbegil8uL/view?usp=sharing)
 
 # Tech Achievement
