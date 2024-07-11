@@ -28,3 +28,8 @@
 | Data Analytics Essentials          | [Badge](https://www.credly.com/badges/31ee9b57-0f39-46fc-b615-0cce8ff60980) | September 30, 2023 |
 | Intro to Programming               | [Kaggle Certification](https://www.kaggle.com/learn/certification/ronanthonysy/intro-to-programming) | November 9, 2023 |
 | Python                             | [Kaggle Certification](https://www.kaggle.com/learn/certification/ronanthonysy/python) | December 13, 2023 |
+
+## PowerBI Projects
+| Certification                     |
+| ----------------------------------|
+| [Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiZTE2YWIwNmEtOTVmZi00Nzg4LThiNDUtNGM0YjZhZjI1ZTA1IiwidCI6IjFhNDE4MTI5LTBlZWUtNDU1ZC04NDFiLWRlZDc0ZDI4MjdhZiIsImMiOjEwfQ%3D%3D) | 
