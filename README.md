@@ -16,18 +16,12 @@
 | Bachelor of Science in Computer Science   | New Era University  | 2019 - Present   |
 
 
-## Certification
+## Certifications
 - [Business Analytics with Excel](https://drive.google.com/file/d/1-0zlC1q5KSwFh7h0B2eHwtPakAq9CewA/view?usp=sharing)
 - [Data Analytics Essentials](https://www.credly.com/badges/31ee9b57-0f39-46fc-b615-0cce8ff60980)
 - [Intro to Programming](https://drive.google.com/file/d/1LlIPp4I04kQQ5irBVcw7hw-DGwl2PnBi/view?usp=sharing)
 - [Python](https://drive.google.com/file/d/1zEv7uCDIEYCbCgMPTa80LL_85s1HQ43W/view?usp=sharing)
 
-| Certification                     | Platform/Provider                                   | Date           |
-| ----------------------------------| ---------------------------------------------------- | -------------- |
-| Business Analytics with Excel      | [Certificate](https://simpli-web.app.link/e/H3FaPOZfcDb) | September 7, 2023 |
-| Data Analytics Essentials          | [Badge](https://www.credly.com/badges/31ee9b57-0f39-46fc-b615-0cce8ff60980) | September 30, 2023 |
-| Intro to Programming               | [Kaggle Certification](https://www.kaggle.com/learn/certification/ronanthonysy/intro-to-programming) | November 9, 2023 |
-| Python                             | [Kaggle Certification](https://www.kaggle.com/learn/certification/ronanthonysy/python) | December 13, 2023 |
 
 # Tech Achievement
 ## PowerBI Projects
