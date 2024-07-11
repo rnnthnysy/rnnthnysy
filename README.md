@@ -33,4 +33,44 @@
 
 # Skill Set
 ## Programming Languages
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+</p>
+
+## DBMS
+<p align="left"> 
+  <a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer"> 
+    <img src="https://www.db2tutorial.com/wp-content/uploads/2019/03/db2-tutorial.png" alt="DB2" width="40" height="40"/> 
+  </a> 
+</p>
+
+## Dev Tools
+<p align="left"> 
+  <a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL7b9P_feX1yThfg-k6-N0TyGHKMa5a7YusA&s" alt="Lucidchart" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Eclipse" width="40" height="40"/> 
+  </a> 
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="Visual Studio" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
+    <img src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" alt="Android Studio" width="40" height="40"/> 
+  </a> 
+</p>
