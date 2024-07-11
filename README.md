@@ -49,10 +49,7 @@
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" alt="css" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" alt="git" width="40" height="40"/> 
-    </a>  
+    </a>   
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-dark.svg" alt="java" width="40" height="40"/> 
     </a> 
@@ -69,7 +66,10 @@
 </p>
 
 ## Dev Tools
-<p align="left"> 
+<p align="left">
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" alt="git" width="40" height="40"/> 
+    </a>
     <a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer"> 
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL7b9P_feX1yThfg-k6-N0TyGHKMa5a7YusA&s" alt="Lucidchart" width="40" height="40"/> 
     </a> 
