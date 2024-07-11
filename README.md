@@ -37,6 +37,16 @@
 - [Command Pattern](https://github.com/rnnthnysy/commandPattern.git)
 
 # Skill Set
+## Data Visualization Tools
+<p align="left"> 
+  <a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="40" height="40"/> 
+  </a> 
+  <a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Public" width="40" height="40"/> 
+  </a> 
+</p>
+
 ## Programming Languages
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
