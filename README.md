@@ -76,7 +76,4 @@
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="Visual Studio" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
-    <img src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" alt="Android Studio" width="40" height="40"/> 
-  </a> 
 </p>
