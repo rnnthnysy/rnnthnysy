@@ -1,4 +1,4 @@
-![github-header-image]![Hackathon (1)](https://github.com/rnnthnysy/rnnthnysy/assets/142371703/e0b12812-7c0d-444d-83ef-be560bf00413)
+[Hackathon (1)](https://github.com/rnnthnysy/rnnthnysy/assets/142371703/e0b12812-7c0d-444d-83ef-be560bf00413)
 
 
 
