@@ -10,20 +10,21 @@
 
 
 ## Certifications
-- [Business Analytics with Excel](https://drive.google.com/file/d/1-0zlC1q5KSwFh7h0B2eHwtPakAq9CewA/view?usp=sharing)
-- [Data Analytics Essentials](https://drive.google.com/file/d/19AURAS57TwHbkAoTjd-QtVXITIcWT6ZQ/view?usp=sharing)
-- [Intro to Programming](https://drive.google.com/file/d/1LlIPp4I04kQQ5irBVcw7hw-DGwl2PnBi/view?usp=sharing)
-- [Python](https://drive.google.com/file/d/1zEv7uCDIEYCbCgMPTa80LL_85s1HQ43W/view?usp=sharing)
-- [Cybersecurity Workshop - CTF](https://drive.google.com/file/d/1wAN4DlExeWl1rXumVXiGrKb6xyQJRbb7/view?usp=sharing)
-- [Cyber Security Bootcamp](https://drive.google.com/file/d/1FbdQK0RPr6DfZFztXdd4FcPKDrwxfhnM/view?usp=sharing)
-- [FCF - Introduction to the Threat Landscape 2.0 Self-Paced](https://drive.google.com/file/d/1vN9ytrfw95zJiUxZVVIKsgQCoOxtXywp/view?usp=sharing)
-- [FCF - Getting Started in Cybersecurity 2.0 Self-Paced](https://drive.google.com/file/d/1HRj5qMuuM9IAjtUk6OG4Qs7D1rVk2VmC/view?usp=sharing)
-- [FCF - Technical Introduction to Cybersecurity 1.0 Self-Paced](https://drive.google.com/file/d/12h8NptOIcZoMDdTFxZyBBKHWi8uKN0-x/view?usp=sharing)
-- [Enhancing Digital Protection Cybersecurity for All](https://drive.google.com/file/d/1FfzyfjsnlgL-j5LlFCDuTSined1U7Np5/view?usp=sharing)
-- [Fortinet Certified Fundamentals in Cybersecurity](https://drive.google.com/file/d/1MAEc4xVa-PuQ4UWkALIv1vJPa0x2Pk36/view?usp=sharing)
-- [FCA - FortiGate 7.4 Operator Self-Paced](https://drive.google.com/file/d/1USgVyXc0OHiSC41HgYrVcJBZaLqmpLr4/view?usp=sharing)
 - [Fortinet Certified Associate in Cybersecurity](https://drive.google.com/file/d/1PGjCxTZ9KO0YVJ5wOma6s7XjQLs3OZnz/view?usp=sharing)
-  
+- [FCA - FortiGate 7.4 Operator Self-Paced](https://drive.google.com/file/d/1USgVyXc0OHiSC41HgYrVcJBZaLqmpLr4/view?usp=sharing)
+- [Fortinet Certified Fundamentals in Cybersecurity](https://drive.google.com/file/d/1MAEc4xVa-PuQ4UWkALIv1vJPa0x2Pk36/view?usp=sharing)
+- [Enhancing Digital Protection Cybersecurity for All](https://drive.google.com/file/d/1FfzyfjsnlgL-j5LlFCDuTSined1U7Np5/view?usp=sharing)
+- [FCF - Technical Introduction to Cybersecurity 1.0 Self-Paced](https://drive.google.com/file/d/12h8NptOIcZoMDdTFxZyBBKHWi8uKN0-x/view?usp=sharing)
+- [FCF - Getting Started in Cybersecurity 2.0 Self-Paced](https://drive.google.com/file/d/1HRj5qMuuM9IAjtUk6OG4Qs7D1rVk2VmC/view?usp=sharing)
+- [FCF - Introduction to the Threat Landscape 2.0 Self-Paced](https://drive.google.com/file/d/1vN9ytrfw95zJiUxZVVIKsgQCoOxtXywp/view?usp=sharing)
+- [Cyber Security Bootcamp](https://drive.google.com/file/d/1FbdQK0RPr6DfZFztXdd4FcPKDrwxfhnM/view?usp=sharing)
+- [Cybersecurity Workshop - CTF](https://drive.google.com/file/d/1wAN4DlExeWl1rXumVXiGrKb6xyQJRbb7/view?usp=sharing)
+- [Python](https://drive.google.com/file/d/1zEv7uCDIEYCbCgMPTa80LL_85s1HQ43W/view?usp=sharing)
+- [Intro to Programming](https://drive.google.com/file/d/1LlIPp4I04kQQ5irBVcw7hw-DGwl2PnBi/view?usp=sharing)
+- [Data Analytics Essentials](https://drive.google.com/file/d/19AURAS57TwHbkAoTjd-QtVXITIcWT6ZQ/view?usp=sharing)
+- [Business Analytics with Excel](https://drive.google.com/file/d/1-0zlC1q5KSwFh7h0B2eHwtPakAq9CewA/view?usp=sharing)
+
+
 # Tech Achievement
 ## PowerBI Projects
 - [Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiZTE2YWIwNmEtOTVmZi00Nzg4LThiNDUtNGM0YjZhZjI1ZTA1IiwidCI6IjFhNDE4MTI5LTBlZWUtNDU1ZC04NDFiLWRlZDc0ZDI4MjdhZiIsImMiOjEwfQ%3D%3D)
