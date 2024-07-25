@@ -21,6 +21,8 @@
 - [FCF - Technical Introduction to Cybersecurity 1.0 Self-Paced](https://drive.google.com/file/d/12h8NptOIcZoMDdTFxZyBBKHWi8uKN0-x/view?usp=sharing)
 - [Enhancing Digital Protection Cybersecurity for All](https://drive.google.com/file/d/1FfzyfjsnlgL-j5LlFCDuTSined1U7Np5/view?usp=sharing)
 - [Fortinet Certified Fundamentals in Cybersecurity](https://drive.google.com/file/d/1MAEc4xVa-PuQ4UWkALIv1vJPa0x2Pk36/view?usp=sharing)
+- [FCA - FortiGate 7.4 Operator Self-Paced](https://drive.google.com/file/d/1USgVyXc0OHiSC41HgYrVcJBZaLqmpLr4/view?usp=sharing)
+- [Fortinet Certified Associate in Cybersecurity](https://drive.google.com/file/d/1PGjCxTZ9KO0YVJ5wOma6s7XjQLs3OZnz/view?usp=sharing)
   
 # Tech Achievement
 ## PowerBI Projects
