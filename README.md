@@ -20,6 +20,7 @@
 - [FCF - Getting Started in Cybersecurity 2.0 Self-Paced](https://drive.google.com/file/d/1HRj5qMuuM9IAjtUk6OG4Qs7D1rVk2VmC/view?usp=sharing)
 - [FCF - Technical Introduction to Cybersecurity 1.0 Self-Paced](https://drive.google.com/file/d/12h8NptOIcZoMDdTFxZyBBKHWi8uKN0-x/view?usp=sharing)
 - [Enhancing Digital Protection Cybersecurity for All](https://drive.google.com/file/d/1FfzyfjsnlgL-j5LlFCDuTSined1U7Np5/view?usp=sharing)
+- [Fortinet Certified Fundamentals in Cybersecurity](https://drive.google.com/file/d/1MAEc4xVa-PuQ4UWkALIv1vJPa0x2Pk36/view?usp=sharing)
   
 # Tech Achievement
 ## PowerBI Projects
