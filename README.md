@@ -37,6 +37,13 @@
 - [Visitor Pattern](https://github.com/rnnthnysy/visitorPattern.git)
 - [Builder Pattern](https://github.com/rnnthnysy/builderPattern.git)
 - [Singleton Pattern](https://github.com/rnnthnysy/singletonPattern.git)
+- [Factory Pattern](https://github.com/rnnthnysy/factoryPattern.git)
+- [Observer Pattern](https://github.com/rnnthnysy/observerPattern.git)
+- [Facade Pattern](https://github.com/rnnthnysy/facadePattern.git)
+- [Adapter Pattern](https://github.com/rnnthnysy/adapterPattern.git)
+- [Command Pattern](https://github.com/rnnthnysy/commandPattern.git)
+- [Decorator Pattern](https://github.com/rnnthnysy/decoratorPattern.git)
+
 
 # Skill Set
 ## Data Visualization Tools
